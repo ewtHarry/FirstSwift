@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     func firstMethod(){
     
         print("firstMethod");
+        print("firstMethod");
         print("firstMethod2");
         
         var secondViewController = SecondViewController();
